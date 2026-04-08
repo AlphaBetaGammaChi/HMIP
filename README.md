@@ -6,12 +6,7 @@ Hydrogen Model Intercomparison Project (HMIP) is a Community Model Intercomparis
 
 (https://alphabetagammachi.github.io/HMIP/)
 
-## Quick Start
 
-1. Click **Use this template** → **Create a new repository**
-2. Edit `mkdocs.yml` to set your site name and description
-3. Enable GitHub Pages: Settings → Pages → gh-pages branch
-4. Your site is live at `https://your-org.github.io/your-repo/`
 
 ## Configuration
 
