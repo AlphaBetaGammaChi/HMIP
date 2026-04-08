@@ -1,5 +1,4 @@
-# MIP Documentation Template
-HMIP
+# HMIP
 
 [![Deploy](https://github.com/WCRP-CMIP/MIP-template/actions/workflows/deploy.yml/badge.svg)](https://github.com/WCRP-CMIP/MIP-template/actions/workflows/deploy.yml)
 
@@ -19,10 +18,13 @@ A template for Model Intercomparison Projects to create documentation websites.
 Edit the top of `mkdocs.yml`:
 
 ```yaml
-site_name: Your MIP Name
-site_description: Your description
-site_author: Your Organization
-site_url: https://your-org.github.io/your-repo/
+/
+site_name: HMIP
+site_description: Hydrogen Model Intercomparison Project (HMIP) is a Community Model Intercomparison Project dedicated to exploring and constraining the impact of hydrogen driven emissions on chemistry, climate and astmospehric parameters.
+site_author: AlphaBetaGammaChi
+site_url: https://AlphaBetaGammaChi.github.io/HMIP
+repo_url: https://AlphaBetaGammaChi/HMIP
+repo_name: AlphaBetaGammaChi/HMIP
 ```
 
 ## Adding Content
