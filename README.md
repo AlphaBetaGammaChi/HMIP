@@ -1,4 +1,5 @@
 # MIP Documentation Template
+HMIP
 
 [![Deploy](https://github.com/WCRP-CMIP/MIP-template/actions/workflows/deploy.yml/badge.svg)](https://github.com/WCRP-CMIP/MIP-template/actions/workflows/deploy.yml)
 
