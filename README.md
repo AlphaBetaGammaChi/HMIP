@@ -2,9 +2,9 @@
 
 [![Deploy](https://github.com/WCRP-CMIP/MIP-template/actions/workflows/deploy.yml/badge.svg)](https://github.com/WCRP-CMIP/MIP-template/actions/workflows/deploy.yml)
 
-A template for Model Intercomparison Projects to create documentation websites.
 
-**Example site:** https://wcrp-cmip.github.io/MIP-template/
+
+[https://wcrp-cmip.github.io/MIP-template/](https://alphabetagammachi.github.io/HMIP/)
 
 ## Quick Start
 
