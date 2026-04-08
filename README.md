@@ -4,7 +4,7 @@
 
 
 
-[https://wcrp-cmip.github.io/MIP-template/](https://alphabetagammachi.github.io/HMIP/)
+(https://alphabetagammachi.github.io/HMIP/)
 
 ## Quick Start
 
