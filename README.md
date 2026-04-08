@@ -2,7 +2,7 @@
 
 [![Deploy](https://github.com/WCRP-CMIP/MIP-template/actions/workflows/deploy.yml/badge.svg)](https://github.com/WCRP-CMIP/MIP-template/actions/workflows/deploy.yml)
 
-
+Hydrogen Model Intercomparison Project (HMIP) is a Community Model Intercomparison Project dedicated to exploring and constraining the impact of hydrogen driven emissions on chemistry, climate and astmospehric parameters.
 
 (https://alphabetagammachi.github.io/HMIP/)
 
