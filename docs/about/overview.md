@@ -6,15 +6,24 @@
 
 Provide a detailed description of your Model Intercomparison Project here. Explain what scientific questions your MIP addresses and why it's important.
 
+The Hydrogen Model Intercomparion Project is designed to improve the understanding the impact of hydrogen leakages will have.
+
+
 ## Scientific Goals
 
 Describe the key scientific goals of your MIP:
 
+1. Quanitfying the radative impacts
+
+
+
+This can only be achieved through a Model intercomapriosn project.
+
 1. **Understanding [Topic]** - Explain how your MIP contributes to understanding a specific climate process or phenomenon.
 
-2. **Improving Projections** - Describe how the experiments help reduce uncertainty in climate projections.
+2. **Improving Projections** - Describe how the experiments help reduce uncertainty in climate projections from hydrogen.
 
-3. **Supporting Assessments** - Explain how results feed into IPCC or other assessments.
+3. **Supporting Assessments** - Investigate chemical feedbacks.
 
 ## History
 
