@@ -15,6 +15,11 @@ Core experiments that all participating models should run:
 | exp-name-1 | Brief description | 1850-2100 | Required |
 | exp-name-2 | Brief description | 1979-2014 | Required |
 
+| Experiment | Description | Years | Priority |
+|------------|-------------|-------|----------|
+| exp-name-1 | Brief description | 1850-2100 | Required |
+
+
 ### Tier 2 (Recommended)
 
 Additional experiments for models with resources:
@@ -23,6 +28,9 @@ Additional experiments for models with resources:
 |------------|-------------|-------|----------|
 | exp-name-3 | Brief description | 2015-2100 | Recommended |
 | exp-name-4 | Brief description | 2015-2300 | Recommended |
+
+| exp-name-3 | Brief description | 2015-2100 | Recommended |
+
 
 ### Tier 3 (Optional)
 
