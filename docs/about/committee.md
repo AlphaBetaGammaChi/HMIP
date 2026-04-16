@@ -4,8 +4,8 @@
 
 | Name | Affiliation | Contact |
 |------|-------------|---------|
-| **[Name]** | [Institution] | email@example.org |
-| **[Name]** | [Institution] | email@example.org |
+| **[Name]** | [NERC] | db18005@bristol.ac.uk |
+| **[Name]** | [Centre for Atmospheric Science] | paul.griffiths@bristol.ac.uk |
 
 ## Committee Members
 
